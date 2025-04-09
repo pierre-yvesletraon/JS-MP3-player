@@ -20,12 +20,6 @@ Un lecteur de musique web moderne et responsive construit avec HTML, CSS et Java
 - JavaScript (Vanilla)
 - API Web Audio
 
-## 📋 Structure du projet
-
-├── index.html # Structure HTML principale
-├── styles.css # Styles et mise en page
-└── script.js # Logique JavaScript du lecteur
-
 ## 🚀 Installation
 
 1. Clonez ce dépôt
